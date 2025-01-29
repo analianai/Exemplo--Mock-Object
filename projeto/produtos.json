@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Landing Page",
+        "descricao": "ma landing page (página de destino) é uma página web projetada especificamente para capturar a atenção do visitante e direcioná-lo para uma ação específica, como preencher um formulário, fazer uma compra, assinar uma newsletter, etc.",
+        "preco": 800.00,
+        "imagem": "assets/img/landpage.png"
+    },
+    {
+        "id": 2,
+        "nome": "WebSite Dinâmico",
+        "descricao": "Exiba diferentes conteúdos e proporcione interação do usuário, fazendo uso de programação avançada e bancos de dados, além de HTML",
+        "preco": 2000.00,
+        "imagem": "assets/img/site.png"
+    },
+    {
+        "id": 3,
+        "nome": "Sistema por Encomenda",
+        "descricao": "São softwares desenvolvidos de acordo a demanda do cliente ou consumidor faz um pedido específico",
+        "preco": 3000.00,
+        "imagem": "assets/img/encomenda.png"
+    }
+]
