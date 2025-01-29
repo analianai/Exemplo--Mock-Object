@@ -167,3 +167,11 @@ h1 {
 ### Resultado
 
 A página exibirá os produtos carregados do arquivo produtos.json, com uma imagem, nome, descrição e preço para cada produto. Demonstrando um exemplo básico de como criar uma página web que exibe produtos utilizando um banco de dados mockado com JSON. Você pode expandir este projeto adicionando mais funcionalidades, como filtros, paginação, ou até mesmo integrando com um backend real para gerenciar os produtos.
+
+### Licença
+
+Copyright (c) 2025 Anália Souza
+
+Permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para lidar no Software sem restrição, incluindo sem limitação os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software, e para permitir que as pessoas a quem o Software é fornecido o façam, desde que as condições a seguir sejam atendidas:
+
+A notificação de copyright acima e esta permissão devem ser incluídas em todas as cópias ou partes substanciais do Software.
